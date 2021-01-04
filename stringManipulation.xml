@@ -1,0 +1,72 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="customActionModels">
+      <list>
+        <CustomActionModel>
+          <option name="id" value="StringManipulation.SwitchStyleAction" />
+          <option name="name" value="Switch case" />
+        </CustomActionModel>
+        <CustomActionModel>
+          <option name="id" value="StringManipulation.f1dd6b07-2142-4c87-8cde-9685d60f8e7e" />
+          <option name="name" value="snake_case" />
+          <option name="steps">
+            <list>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_UNKNOWN" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="CAMEL_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="KEBAB_UPPERCASE" />
+              </Step>
+              <Step>
+                <option name="style" value="SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_SINGLE_WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SCREAMING_SNAKE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="DOT" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="_ALL_UPPER_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_LOWERCASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="SENTENCE_CASE" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="WORD_CAPITALIZED" />
+              </Step>
+              <Step>
+                <option name="enabled" value="false" />
+                <option name="style" value="PASCAL_CASE" />
+              </Step>
+            </list>
+          </option>
+        </CustomActionModel>
+      </list>
+    </option>
+    <option name="lastSelectedAction" value="1" />
+  </component>
+</application>
