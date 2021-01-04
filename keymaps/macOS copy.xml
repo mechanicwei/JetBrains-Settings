@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="shift meta comma" />
+    <keyboard-shortcut first-keystroke="shift meta less" />
   </action>
   <action id="CIDR.Debugger.ShowInMemoryView" />
   <action id="CheckinProject" />
