@@ -585,6 +585,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-f549dca43f32/spec" />
       </excluded>
     </library>
+    <library name="acts_as_graph (v0.0.3@7c6422, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/spec" />
+      </excluded>
+    </library>
     <library name="addressable (v2.4.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5673,6 +5692,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.0512/types" />
       </excluded>
     </library>
+    <library name="mime-types-data (v3.2020.1104, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/types" />
+      </excluded>
+    </library>
     <library name="mimemagic (v0.3.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8218,6 +8256,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.3/test" />
       </excluded>
     </library>
+    <library name="public_activity (v1.6.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.4/test" />
+      </excluded>
+    </library>
     <library name="public_suffix (v3.0.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9610,6 +9664,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.7.0/spec" />
+      </excluded>
+    </library>
+    <library name="redis-namespace (v1.8.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.8.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.8.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.8.0/spec" />
       </excluded>
     </library>
     <library name="redis-rack (v2.0.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
