@@ -416,17 +416,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.4.4/examples" />
       </excluded>
     </library>
-    <library name="activerecord-session_store (v1.1.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/activerecord-session_store-1.1.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/activerecord-session_store-1.1.3/lib" />
-      </SOURCES>
-    </library>
     <library name="activestorage (v5.2.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -583,47 +572,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-f549dca43f32/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-f549dca43f32/spec" />
-      </excluded>
-    </library>
-    <library name="acts_as_graph (v0.0.3@7c6422, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/.git" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/.git" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/.git" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/acts_as_graph-7c64222cdf11/spec" />
-      </excluded>
-    </library>
-    <library name="addressable (v2.4.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/addressable-2.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/addressable-2.4.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/addressable-2.4.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/addressable-2.4.0/tasks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/addressable-2.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/addressable-2.4.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/addressable-2.4.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/addressable-2.4.0/tasks" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/addressable-2.4.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/addressable-2.4.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/addressable-2.4.0/tasks" />
       </excluded>
     </library>
     <library name="addressable (v2.4.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -845,22 +793,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/autoprefixer-rails-9.4.10.2/spec" />
       </excluded>
     </library>
-    <library name="awesome_print (v1.6.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/awesome_print-1.6.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/awesome_print-1.6.1/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/awesome_print-1.6.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/awesome_print-1.6.1/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/awesome_print-1.6.1/spec" />
-      </excluded>
-    </library>
     <library name="awesome_print (v1.6.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -891,22 +823,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/awesome_print-1.8.0/spec" />
-      </excluded>
-    </library>
-    <library name="backport (v1.1.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/backport-1.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/backport-1.1.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/backport-1.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/backport-1.1.2/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/backport-1.1.2/bin" />
       </excluded>
     </library>
     <library name="backport (v1.1.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -977,22 +893,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/bearer-agent-3.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/bearer-agent-3.1.0/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/bearer-agent-3.1.0/.vscode" />
-      </excluded>
-    </library>
-    <library name="benchmark (v0.1.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/benchmark-0.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/benchmark-0.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/benchmark-0.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/benchmark-0.1.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/benchmark-0.1.0/bin" />
       </excluded>
     </library>
     <library name="benchmark (v0.1.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -1549,25 +1449,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/byebug-11.1.3/ext" />
       </excluded>
     </library>
-    <library name="byebug (v9.0.6, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/byebug-9.0.6/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/byebug-9.0.6/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/byebug-9.0.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/byebug-9.0.6/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/byebug-9.0.6/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/byebug-9.0.6/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/byebug-9.0.6/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/byebug-9.0.6/ext" />
-      </excluded>
-    </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1974,23 +1855,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/case_transform-0.2/lib" />
       </SOURCES>
     </library>
-    <library name="certified (v1.0.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/certified-1.0.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/certified-1.0.0/certs" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/certified-1.0.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/certified-1.0.0/certs" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/certified-1.0.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/certified-1.0.0/certs" />
-      </excluded>
-    </library>
     <library name="certified (v1.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2130,25 +1994,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/cliver-0.3.2/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/cliver-0.3.2/.githooks" />
-      </excluded>
-    </library>
-    <library name="coderay (v1.1.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/coderay-1.1.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/coderay-1.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/coderay-1.1.1/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/coderay-1.1.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/coderay-1.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/coderay-1.1.1/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/coderay-1.1.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/coderay-1.1.1/test" />
       </excluded>
     </library>
     <library name="coderay (v1.1.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -2356,22 +2201,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/concurrent-ruby-1.1.7/lib" />
       </excluded>
     </library>
-    <library name="connection_pool (v2.2.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/connection_pool-2.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/connection_pool-2.2.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/connection_pool-2.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/connection_pool-2.2.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/connection_pool-2.2.0/test" />
-      </excluded>
-    </library>
     <library name="connection_pool (v2.2.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2402,22 +2231,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/connection_pool-2.2.2/test" />
-      </excluded>
-    </library>
-    <library name="connection_pool (v2.2.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/connection_pool-2.2.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/connection_pool-2.2.3/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/connection_pool-2.2.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/connection_pool-2.2.3/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/connection_pool-2.2.3/test" />
       </excluded>
     </library>
     <library name="countries (v3.0.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -2553,17 +2366,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/css_parser-1.6.0/lib" />
       </SOURCES>
     </library>
-    <library name="dalli (v2.7.6, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/dalli-2.7.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/dalli-2.7.6/lib" />
-      </SOURCES>
-    </library>
     <library name="dalli (v2.7.6, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2603,27 +2405,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/dalli-delete-matched-68de4346d7ca/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/dalli-delete-matched-68de4346d7ca/test" />
-      </excluded>
-    </library>
-    <library name="database_cleaner (v1.5.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/database_cleaner-1.5.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/database_cleaner-1.5.3/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/database_cleaner-1.5.3/examples" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/database_cleaner-1.5.3/features" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/database_cleaner-1.5.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/database_cleaner-1.5.3/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/database_cleaner-1.5.3/examples" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/database_cleaner-1.5.3/features" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/database_cleaner-1.5.3/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/database_cleaner-1.5.3/examples" />
       </excluded>
     </library>
     <library name="database_cleaner (v1.5.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -2866,22 +2647,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/diff-lcs-1.4.4/autotest" />
       </excluded>
     </library>
-    <library name="docile (v1.1.5, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/docile-1.1.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/docile-1.1.5/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/docile-1.1.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/docile-1.1.5/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/docile-1.1.5/spec" />
-      </excluded>
-    </library>
     <library name="docile (v1.3.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2902,17 +2667,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/docile-1.3.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="docile (v1.3.5, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/docile-1.3.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/docile-1.3.5/lib" />
       </SOURCES>
     </library>
     <library name="docx_replace (v1.2.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -2948,28 +2702,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20170404/tool" />
       </excluded>
     </library>
-    <library name="domain_name (v0.5.20180417, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20180417/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20180417/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20180417/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20180417/tool" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20180417/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20180417/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20180417/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20180417/tool" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20180417/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20180417/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20180417/tool" />
-      </excluded>
-    </library>
     <library name="domain_name (v0.5.20180417, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2990,44 +2722,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/domain_name-0.5.20180417/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/domain_name-0.5.20180417/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/domain_name-0.5.20180417/tool" />
-      </excluded>
-    </library>
-    <library name="domain_name (v0.5.20190701, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20190701/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20190701/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20190701/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20190701/tool" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20190701/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20190701/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20190701/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20190701/tool" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20190701/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20190701/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/domain_name-0.5.20190701/tool" />
-      </excluded>
-    </library>
-    <library name="e2mmap (v0.1.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/e2mmap-0.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/e2mmap-0.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/e2mmap-0.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/e2mmap-0.1.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/e2mmap-0.1.0/bin" />
       </excluded>
     </library>
     <library name="e2mmap (v0.1.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -3095,25 +2789,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/elasticsearch-transport-6.1.0/test" />
-      </excluded>
-    </library>
-    <library name="enumerize (v2.0.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/enumerize-2.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/enumerize-2.0.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/enumerize-2.0.1/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/enumerize-2.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/enumerize-2.0.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/enumerize-2.0.1/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/enumerize-2.0.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/enumerize-2.0.1/test" />
       </excluded>
     </library>
     <library name="enumerize (v2.0.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -3436,22 +3111,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_bot_rails-4.8.2/gemfiles" />
       </excluded>
     </library>
-    <library name="factory_girl (v4.7.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl-4.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl-4.7.0/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl-4.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl-4.7.0/gemfiles" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl-4.7.0/gemfiles" />
-      </excluded>
-    </library>
     <library name="factory_girl (v4.7.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3466,27 +3125,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/factory_girl-4.7.0/gemfiles" />
-      </excluded>
-    </library>
-    <library name="factory_girl_rails (v4.7.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl_rails-4.7.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl_rails-4.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl_rails-4.7.0/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl_rails-4.7.0/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl_rails-4.7.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl_rails-4.7.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl_rails-4.7.0/features" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl_rails-4.7.0/gemfiles" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl_rails-4.7.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/factory_girl_rails-4.7.0/gemfiles" />
       </excluded>
     </library>
     <library name="factory_girl_rails (v4.7.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -3578,17 +3216,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/faraday-0.12.2/lib" />
       </SOURCES>
     </library>
-    <library name="faraday (v0.13.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/faraday-0.13.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/faraday-0.13.1/lib" />
-      </SOURCES>
-    </library>
     <library name="faraday (v0.13.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3614,28 +3241,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/faye-websocket-0.7.5/examples" />
-      </excluded>
-    </library>
-    <library name="ffi (v1.13.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ffi-1.13.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ffi-1.13.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ffi-1.13.1/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ffi-1.13.1/samples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ffi-1.13.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ffi-1.13.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ffi-1.13.1/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ffi-1.13.1/samples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ffi-1.13.1/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ffi-1.13.1/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ffi-1.13.1/samples" />
       </excluded>
     </library>
     <library name="ffi (v1.13.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -3964,17 +3569,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphiql-rails-1.7.0/config" />
       </excluded>
     </library>
-    <library name="graphql (v1.9.12, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-1.9.12/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-1.9.12/lib" />
-      </SOURCES>
-    </library>
     <library name="graphql (v1.9.7, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4008,25 +3602,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-batch-0.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-batch-0.4.0/examples" />
-      </excluded>
-    </library>
-    <library name="graphql-batch (v0.4.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-batch-0.4.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-batch-0.4.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-batch-0.4.3/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-batch-0.4.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-batch-0.4.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-batch-0.4.3/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-batch-0.4.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/graphql-batch-0.4.3/examples" />
       </excluded>
     </library>
     <library name="graphql-guard (v1.2.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -4067,55 +3642,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/graphql-result_cache-5ca549dc5345/spec" />
       </excluded>
     </library>
-    <library name="guard (v2.16.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-2.16.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-2.16.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-2.16.2/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-2.16.2/images" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-2.16.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-2.16.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-2.16.2/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-2.16.2/images" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-2.16.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-2.16.2/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-2.16.2/images" />
-      </excluded>
-    </library>
-    <library name="guard-compat (v1.2.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-compat-1.2.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-compat-1.2.1/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-compat-1.2.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-compat-1.2.1/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-compat-1.2.1/spec" />
-      </excluded>
-    </library>
-    <library name="guard-minitest (v2.4.6, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-minitest-2.4.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/guard-minitest-2.4.6/lib" />
-      </SOURCES>
-    </library>
     <library name="gyoku (v1.3.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4130,22 +3656,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/gyoku-1.3.1/spec" />
-      </excluded>
-    </library>
-    <library name="hashdiff (v0.3.7, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/hashdiff-0.3.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/hashdiff-0.3.7/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/hashdiff-0.3.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/hashdiff-0.3.7/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/hashdiff-0.3.7/spec" />
       </excluded>
     </library>
     <library name="hashdiff (v0.3.7, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -4231,17 +3741,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/highcharts-rails-6.0.3/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/highcharts-rails-6.0.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="http-accept (v1.7.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/http-accept-1.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/http-accept-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="http-cookie (v1.0.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -4332,17 +3831,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/i18n-0.9.5/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/i18n-0.9.5/gemfiles" />
       </excluded>
-    </library>
-    <library name="i18n (v1.6.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/i18n-1.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/i18n-1.6.0/lib" />
-      </SOURCES>
     </library>
     <library name="i18n (v1.6.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -4546,22 +4034,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/iStats-1.6.1/integrations" />
       </excluded>
     </library>
-    <library name="jaro_winkler (v1.5.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jaro_winkler-1.5.4/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jaro_winkler-1.5.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jaro_winkler-1.5.4/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jaro_winkler-1.5.4/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jaro_winkler-1.5.4/ext" />
-      </excluded>
-    </library>
     <library name="jaro_winkler (v1.5.4, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4613,24 +4085,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/jingubang-39404c8cbb26/.git" />
-      </excluded>
-    </library>
-    <library name="jingubang (v0.0.1@ff94f6, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/jingubang-ff94f677daae/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/jingubang-ff94f677daae/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/jingubang-ff94f677daae/.git" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/jingubang-ff94f677daae/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/jingubang-ff94f677daae/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/jingubang-ff94f677daae/.git" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/jingubang-ff94f677daae/.git" />
       </excluded>
     </library>
     <library name="jpush (v4.0.8, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -4711,37 +4165,6 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
       </excluded>
     </library>
-    <library name="json (v2.2.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/diagrams" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/references" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/diagrams" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/references" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/java" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/tests" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/diagrams" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/json-2.2.0/references" />
-      </excluded>
-    </library>
     <library name="json (v2.3.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4786,22 +4209,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jsonapi-renderer-0.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="jwt (v1.5.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jwt-1.5.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jwt-1.5.4/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jwt-1.5.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jwt-1.5.4/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jwt-1.5.4/spec" />
-      </excluded>
-    </library>
     <library name="jwt (v1.5.4, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4828,28 +4235,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/jwt-2.2.1/lib" />
       </SOURCES>
-    </library>
-    <library name="kgio (v2.10.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/kgio-2.10.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/kgio-2.10.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/kgio-2.10.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/kgio-2.10.0/archive" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/kgio-2.10.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/kgio-2.10.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/kgio-2.10.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/kgio-2.10.0/archive" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/kgio-2.10.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/kgio-2.10.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/kgio-2.10.0/archive" />
-      </excluded>
     </library>
     <library name="kgio (v2.10.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -4951,22 +4336,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/listen-3.1.5/bin" />
       </excluded>
     </library>
-    <library name="listen (v3.2.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/listen-3.2.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/listen-3.2.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/listen-3.2.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/listen-3.2.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/listen-3.2.1/bin" />
-      </excluded>
-    </library>
     <library name="locales_export_import (v0.5.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4992,17 +4361,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/lograge-0.10.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="lograge (v0.11.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/lograge-0.11.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/lograge-0.11.2/lib" />
       </SOURCES>
     </library>
     <library name="lograge (v0.11.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -5116,42 +4474,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/loofah-2.7.0/benchmark" />
-      </excluded>
-    </library>
-    <library name="lumberjack (v1.2.8, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/lumberjack-1.2.8/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/lumberjack-1.2.8/lib" />
-      </SOURCES>
-    </library>
-    <library name="m (v1.5.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/benchmarks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/benchmarks" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/m-1.5.0/benchmarks" />
       </excluded>
     </library>
     <library name="m (v1.5.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -5302,31 +4624,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/marcel-0.3.3/lib" />
       </SOURCES>
     </library>
-    <library name="maruku (v0.7.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/maruku-0.7.3/spec" />
-      </excluded>
-    </library>
     <library name="maruku (v0.7.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5382,22 +4679,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/metaclass-0.0.4/test" />
-      </excluded>
-    </library>
-    <library name="method_source (v0.8.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/method_source-0.8.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/method_source-0.8.2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/method_source-0.8.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/method_source-0.8.2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/method_source-0.8.2/test" />
       </excluded>
     </library>
     <library name="method_source (v0.8.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -5553,44 +4834,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.0512/types" />
       </excluded>
     </library>
-    <library name="mime-types-data (v3.2020.1104, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/types" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/types" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mime-types-data-3.2020.1104/types" />
-      </excluded>
-    </library>
-    <library name="mimemagic (v0.3.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mimemagic-0.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mimemagic-0.3.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mimemagic-0.3.2/script" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mimemagic-0.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mimemagic-0.3.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mimemagic-0.3.2/script" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mimemagic-0.3.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mimemagic-0.3.2/script" />
-      </excluded>
-    </library>
     <library name="mimemagic (v0.3.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5678,25 +4921,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_magick-4.3.6/lib" />
       </SOURCES>
     </library>
-    <library name="mini_mime (v1.0.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_mime-1.0.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_mime-1.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_mime-1.0.0/bench" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_mime-1.0.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_mime-1.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_mime-1.0.0/bench" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_mime-1.0.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_mime-1.0.0/bench" />
-      </excluded>
-    </library>
     <library name="mini_mime (v1.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5771,25 +4995,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mini_mime-1.0.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mini_mime-1.0.2/bench" />
-      </excluded>
-    </library>
-    <library name="mini_portile2 (v2.3.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_portile2-2.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_portile2-2.3.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_portile2-2.3.0/concourse" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_portile2-2.3.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_portile2-2.3.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_portile2-2.3.0/concourse" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_portile2-2.3.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mini_portile2-2.3.0/concourse" />
       </excluded>
     </library>
     <library name="mini_portile2 (v2.3.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -5881,22 +5086,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/minitest-5.10.3/test" />
       </excluded>
     </library>
-    <library name="minitest (v5.11.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest-5.11.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest-5.11.3/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest-5.11.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest-5.11.3/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest-5.11.3/test" />
-      </excluded>
-    </library>
     <library name="minitest (v5.11.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5983,25 +5172,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest-hooks-1.4.2/spec" />
-      </excluded>
-    </library>
-    <library name="minitest_to_rspec (v0.13.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest_to_rspec-0.13.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest_to_rspec-0.13.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest_to_rspec-0.13.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest_to_rspec-0.13.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest_to_rspec-0.13.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest_to_rspec-0.13.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest_to_rspec-0.13.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/minitest_to_rspec-0.13.0/doc" />
       </excluded>
     </library>
     <library name="mocha (v1.1.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -6476,17 +5646,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/msgpack-1.3.3/doclib" />
       </excluded>
     </library>
-    <library name="multi_json (v1.12.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/multi_json-1.12.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/multi_json-1.12.2/lib" />
-      </SOURCES>
-    </library>
     <library name="multi_json (v1.12.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6570,17 +5729,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mustermann-1.1.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/mustermann-1.1.1/bench" />
       </excluded>
-    </library>
-    <library name="nenv (v0.3.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nenv-0.3.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nenv-0.3.0/lib" />
-      </SOURCES>
     </library>
     <library name="net-ping (v1.7.8, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
@@ -6738,34 +5886,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/netrc-0.11.0/test" />
       </excluded>
     </library>
-    <library name="newrelic_rpm (v5.2.0.345, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/cert" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/recipes" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/cert" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/recipes" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/cert" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/config" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/newrelic_rpm-5.2.0.345/recipes" />
-      </excluded>
-    </library>
     <library name="newrelic_rpm (v5.2.0.345, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6872,31 +5992,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nio4r-2.3.1/examples" />
-      </excluded>
-    </library>
-    <library name="nio4r (v2.5.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/rakelib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/rakelib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/rakelib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nio4r-2.5.2/examples" />
       </excluded>
     </library>
     <library name="nio4r (v2.5.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -7023,37 +6118,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.10.3/patches" />
       </excluded>
     </library>
-    <library name="nokogiri (v1.8.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/patches" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/suppressions" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/patches" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/suppressions" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/patches" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nokogiri-1.8.4/suppressions" />
-      </excluded>
-    </library>
     <library name="nokogiri (v1.8.4, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7123,22 +6187,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nori-2.6.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/nori-2.6.0/benchmark" />
-      </excluded>
-    </library>
-    <library name="notiffany (v0.1.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/notiffany-0.1.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/notiffany-0.1.3/images" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/notiffany-0.1.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/notiffany-0.1.3/images" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/notiffany-0.1.3/images" />
       </excluded>
     </library>
     <library name="oauth2 (v1.4.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -7397,22 +6445,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parallel_tests-2.21.2/bin" />
       </excluded>
     </library>
-    <library name="parallel_tests (v2.21.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parallel_tests-2.21.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parallel_tests-2.21.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parallel_tests-2.21.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parallel_tests-2.21.3/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parallel_tests-2.21.3/bin" />
-      </excluded>
-    </library>
     <library name="parallel_tests (v2.21.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7489,28 +6521,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.0/test" />
       </excluded>
     </library>
-    <library name="parser (v2.5.1.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.2/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.2/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.2/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.2/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/parser-2.5.1.2/test" />
-      </excluded>
-    </library>
     <library name="parser (v2.5.1.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7572,25 +6582,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.7.2.0/bin" />
-      </excluded>
-    </library>
-    <library name="paypal-sdk-rest (v1.6.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/paypal-sdk-rest-1.6.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/paypal-sdk-rest-1.6.1/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/paypal-sdk-rest-1.6.1/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/paypal-sdk-rest-1.6.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/paypal-sdk-rest-1.6.1/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/paypal-sdk-rest-1.6.1/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/paypal-sdk-rest-1.6.1/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/paypal-sdk-rest-1.6.1/spec" />
       </excluded>
     </library>
     <library name="paypal-sdk-rest (v1.6.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -7802,22 +6793,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/promise.rb-0.7.4/benchmark" />
       </excluded>
     </library>
-    <library name="pry (v0.10.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-0.10.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-0.10.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-0.10.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-0.10.3/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-0.10.3/bin" />
-      </excluded>
-    </library>
     <library name="pry (v0.10.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7866,17 +6841,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-0.13.1/bin" />
       </excluded>
     </library>
-    <library name="pry-byebug (v3.4.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-byebug-3.4.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-byebug-3.4.0/lib" />
-      </SOURCES>
-    </library>
     <library name="pry-byebug (v3.4.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7909,25 +6873,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pry-byebug-3.9.0/lib" />
       </SOURCES>
-    </library>
-    <library name="pry-rails (v0.3.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-rails-0.3.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-rails-0.3.4/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-rails-0.3.4/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-rails-0.3.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-rails-0.3.4/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-rails-0.3.4/gemfiles" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-rails-0.3.4/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/pry-rails-0.3.4/gemfiles" />
-      </excluded>
     </library>
     <library name="pry-rails (v0.3.4, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -8046,22 +6991,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.3/test" />
-      </excluded>
-    </library>
-    <library name="public_activity (v1.6.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.4/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.4/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/public_activity-1.6.4/test" />
       </excluded>
     </library>
     <library name="public_suffix (v3.0.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -8235,31 +7164,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/qunit-rails-96183abdf607/config" />
       </excluded>
     </library>
-    <library name="rack (v2.0.5, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/contrib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/example" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/contrib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/example" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/contrib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-2.0.5/example" />
-      </excluded>
-    </library>
     <library name="rack (v2.0.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8408,28 +7312,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-protection-2.0.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="rack-protection (v2.1.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-protection-2.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-protection-2.1.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rack-test (v1.0.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-test-1.0.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rack-test-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v1.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -8789,25 +7671,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/railties-5.2.4.4/exe" />
       </excluded>
     </library>
-    <library name="rainbow (v2.2.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rainbow-2.2.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rainbow-2.2.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rainbow-2.2.2/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rainbow-2.2.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rainbow-2.2.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rainbow-2.2.2/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rainbow-2.2.2/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rainbow-2.2.2/spec" />
-      </excluded>
-    </library>
     <library name="rainbow (v2.2.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8857,31 +7720,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rainbow-3.0.0/spec" />
-      </excluded>
-    </library>
-    <library name="raindrops (v0.16.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/archive" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/archive" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/archive" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/raindrops-0.16.0/examples" />
       </excluded>
     </library>
     <library name="raindrops (v0.16.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -9221,31 +8059,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redcarpet-3.4.0/test" />
       </excluded>
     </library>
-    <library name="redis (v3.3.5, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/.travis" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/examples" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/benchmarking" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/.travis" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/examples" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/benchmarking" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/.travis" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/examples" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-3.3.5/benchmarking" />
-      </excluded>
-    </library>
     <library name="redis (v3.3.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9296,17 +8109,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-4.0.1/benchmarking" />
       </excluded>
     </library>
-    <library name="redis (v4.1.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-4.1.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-4.1.4/lib" />
-      </SOURCES>
-    </library>
     <library name="redis-actionpack (v5.0.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9340,22 +8142,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-activesupport-5.0.4/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-activesupport-5.0.4/gemfiles" />
-      </excluded>
-    </library>
-    <library name="redis-namespace (v1.5.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.5.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.5.2/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.5.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.5.2/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.5.2/spec" />
       </excluded>
     </library>
     <library name="redis-namespace (v1.5.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -9404,22 +8190,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.7.0/spec" />
-      </excluded>
-    </library>
-    <library name="redis-namespace (v1.8.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.8.0/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.8.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.8.0/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/redis-namespace-1.8.0/spec" />
       </excluded>
     </library>
     <library name="redis-rack (v2.0.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -9596,44 +8366,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rest-client-2.0.2/spec" />
       </excluded>
     </library>
-    <library name="rest-client (v2.1.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rest-client-2.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rest-client-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rest-client-2.1.0/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rest-client-2.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rest-client-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rest-client-2.1.0/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rest-client-2.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rest-client-2.1.0/spec" />
-      </excluded>
-    </library>
-    <library name="reverse_markdown (v2.0.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/reverse_markdown-2.0.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/reverse_markdown-2.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/reverse_markdown-2.0.0/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/reverse_markdown-2.0.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/reverse_markdown-2.0.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/reverse_markdown-2.0.0/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/reverse_markdown-2.0.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/reverse_markdown-2.0.0/spec" />
-      </excluded>
-    </library>
     <library name="reverse_markdown (v2.0.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9703,22 +8435,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/roadie-3.3.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/roadie-3.3.0/autotest" />
-      </excluded>
-    </library>
-    <library name="roadie (v3.4.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/roadie-3.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/roadie-3.4.0/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/roadie-3.4.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/roadie-3.4.0/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/roadie-3.4.0/spec" />
       </excluded>
     </library>
     <library name="roadie (v3.4.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -9961,31 +8677,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rspec-support-3.9.3/lib" />
       </SOURCES>
     </library>
-    <library name="rubocop (v0.40.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/rubocop-0.40.0/config" />
-      </excluded>
-    </library>
     <library name="rubocop (v0.40.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10206,31 +8897,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.11.0/compare" />
       </excluded>
     </library>
-    <library name="ruby_parser (v3.15.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/compare" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/compare" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/tools" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/ruby_parser-3.15.0/compare" />
-      </excluded>
-    </library>
     <library name="rubygems-bundler (v1.4.5, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10368,25 +9034,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
-    </library>
-    <library name="safe_yaml (v1.0.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/safe_yaml-1.0.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/safe_yaml-1.0.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/safe_yaml-1.0.4/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/safe_yaml-1.0.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/safe_yaml-1.0.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/safe_yaml-1.0.4/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/safe_yaml-1.0.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/safe_yaml-1.0.4/spec" />
-      </excluded>
     </library>
     <library name="safe_yaml (v1.0.4, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -10643,25 +9290,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/bundler/gems/sendcloud_rails-082d5f2c59b0/.git" />
       </excluded>
     </library>
-    <library name="sentry-raven (v2.6.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sentry-raven-2.6.3/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sentry-raven-2.6.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sentry-raven-2.6.3/docs" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sentry-raven-2.6.3/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sentry-raven-2.6.3/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sentry-raven-2.6.3/docs" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sentry-raven-2.6.3/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sentry-raven-2.6.3/docs" />
-      </excluded>
-    </library>
     <library name="sentry-raven (v2.6.3, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10716,44 +9344,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sexp_processor-4.15.2/test" />
       </excluded>
     </library>
-    <library name="shellany (v0.0.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/shellany-0.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/shellany-0.0.1/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/shellany-0.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/shellany-0.0.1/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/shellany-0.0.1/spec" />
-      </excluded>
-    </library>
-    <library name="sidekiq (v4.1.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-4.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-4.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-4.1.0/web" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-4.1.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-4.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-4.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-4.1.0/web" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-4.1.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-4.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-4.1.0/web" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-4.1.0/test" />
-      </excluded>
-    </library>
     <library name="sidekiq (v4.1.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10796,31 +9386,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.1.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.1.3/web" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.1.3/.github" />
-      </excluded>
-    </library>
-    <library name="sidekiq (v5.2.9, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/web" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/.circleci" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/web" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/.circleci" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/web" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sidekiq-5.2.9/.circleci" />
       </excluded>
     </library>
     <library name="sidekiq-cron (v0.6.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -10953,27 +9518,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simple_form-4.0.1/test" />
       </excluded>
     </library>
-    <library name="simplecov (v0.12.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.12.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.12.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.12.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.12.0/features" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.12.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.12.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.12.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.12.0/features" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.12.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.12.0/spec" />
-      </excluded>
-    </library>
     <library name="simplecov (v0.19.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11004,47 +9548,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/simplecov-0.19.1/doc" />
-      </excluded>
-    </library>
-    <library name="simplecov (v0.21.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.21.2/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.21.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.21.2/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.21.2/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-0.21.2/doc" />
-      </excluded>
-    </library>
-    <library name="simplecov-html (v0.10.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/public" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/public" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/assets" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov-html-0.10.2/public" />
       </excluded>
     </library>
     <library name="simplecov-html (v0.12.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -11129,17 +9632,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/simplecov-lcov-0.8.0/spec" />
       </excluded>
     </library>
-    <library name="simplecov_json_formatter (v0.1.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov_json_formatter-0.1.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/simplecov_json_formatter-0.1.2/lib" />
-      </SOURCES>
-    </library>
     <library name="sinatra (v2.0.3, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11204,22 +9696,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sixarm_ruby_unaccent-1.2.0/test" />
       </excluded>
     </library>
-    <library name="slop (v3.6.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/slop-3.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/slop-3.6.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/slop-3.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/slop-3.6.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/slop-3.6.0/test" />
-      </excluded>
-    </library>
     <library name="slop (v3.6.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11253,25 +9729,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/socksify-1.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/socksify-1.7.1/doc" />
-      </excluded>
-    </library>
-    <library name="solargraph (v0.39.17, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/solargraph-0.39.17/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/solargraph-0.39.17/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/solargraph-0.39.17/yardoc" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/solargraph-0.39.17/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/solargraph-0.39.17/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/solargraph-0.39.17/yardoc" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/solargraph-0.39.17/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/solargraph-0.39.17/yardoc" />
       </excluded>
     </library>
     <library name="solargraph (v0.39.17, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -11354,22 +9811,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/spreadsheet-1.1.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/spreadsheet-1.1.7/test" />
-      </excluded>
-    </library>
-    <library name="spring (v1.7.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/spring-1.7.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/spring-1.7.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/spring-1.7.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/spring-1.7.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/spring-1.7.1/bin" />
       </excluded>
     </library>
     <library name="spring (v1.7.1, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -11618,25 +10059,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/sshkit-1.16.0/examples" />
       </excluded>
     </library>
-    <library name="telephone_number (v1.3.4, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/telephone_number-1.3.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/telephone_number-1.3.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/telephone_number-1.3.4/data" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/telephone_number-1.3.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/telephone_number-1.3.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/telephone_number-1.3.4/data" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/telephone_number-1.3.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/telephone_number-1.3.4/data" />
-      </excluded>
-    </library>
     <library name="telephone_number (v1.4.9, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11855,22 +10277,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/thread_safe-0.3.6/yard-template" />
       </excluded>
     </library>
-    <library name="tilt (v2.0.10, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/tilt-2.0.10/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/tilt-2.0.10/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/tilt-2.0.10/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/tilt-2.0.10/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/tilt-2.0.10/bin" />
-      </excluded>
-    </library>
     <library name="tilt (v2.0.10, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11926,22 +10332,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/timecop-0.9.1/test" />
-      </excluded>
-    </library>
-    <library name="trollop (v2.9.10, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/trollop-2.9.10/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/trollop-2.9.10/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/trollop-2.9.10/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/trollop-2.9.10/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/trollop-2.9.10/test" />
       </excluded>
     </library>
     <library name="turbolinks (v5.1.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
@@ -12206,25 +10596,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unf_ext-0.0.7.5/test" />
       </excluded>
     </library>
-    <library name="unf_ext (v0.0.7.7, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unf_ext-0.0.7.7/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unf_ext-0.0.7.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unf_ext-0.0.7.7/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unf_ext-0.0.7.7/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unf_ext-0.0.7.7/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unf_ext-0.0.7.7/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unf_ext-0.0.7.7/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unf_ext-0.0.7.7/test" />
-      </excluded>
-    </library>
     <library name="unicode-display_width (v1.4.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12331,43 +10702,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicode_utils-1.4.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicode_utils-1.4.0/cdata" />
-      </excluded>
-    </library>
-    <library name="unicorn (v5.1.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/t" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/archive" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/examples" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/Documentation" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/t" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/archive" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/examples" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/Documentation" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/t" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/man" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/archive" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/examples" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/unicorn-5.1.0/Documentation" />
       </excluded>
     </library>
     <library name="unicorn (v5.1.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -12567,28 +10901,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/web-console-3.7.0/lib" />
       </SOURCES>
-    </library>
-    <library name="webmock (v3.1.0, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/webmock-3.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/webmock-3.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/webmock-3.1.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/webmock-3.1.0/minitest" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/webmock-3.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/webmock-3.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/webmock-3.1.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/webmock-3.1.0/minitest" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/webmock-3.1.0/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/webmock-3.1.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/webmock-3.1.0/minitest" />
-      </excluded>
     </library>
     <library name="webmock (v3.1.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -12912,22 +11224,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/wisper-2.0.0/spec" />
       </excluded>
     </library>
-    <library name="wisper (v2.0.0.rc1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/wisper-2.0.0.rc1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/wisper-2.0.0.rc1/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/wisper-2.0.0.rc1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/wisper-2.0.0.rc1/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/wisper-2.0.0.rc1/spec" />
-      </excluded>
-    </library>
     <library name="wisper (v2.0.0.rc1, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13013,17 +11309,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/wx_pay-0.20.1/test" />
       </excluded>
-    </library>
-    <library name="xml-simple (v1.1.5, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/xml-simple-1.1.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/xml-simple-1.1.5/lib" />
-      </SOURCES>
     </library>
     <library name="xml-simple (v1.1.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -13126,40 +11411,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.12/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.12/templates" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.12/benchmarks" />
-      </excluded>
-    </library>
-    <library name="yard (v0.9.25, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/po" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/templates" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/benchmarks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/po" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/templates" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/benchmarks" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/po" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/docs" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/tasks" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/templates" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/yard-0.9.25/benchmarks" />
       </excluded>
     </library>
     <library name="yard (v0.9.25, RVM: ruby-2.5.1) [gem]" type="rubylib">
