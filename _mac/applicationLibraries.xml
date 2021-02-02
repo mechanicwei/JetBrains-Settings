@@ -10700,22 +10700,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sentry-raven-2.7.4/docs" />
       </excluded>
     </library>
-    <library name="sexp_processor (v4.15.1, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sexp_processor-4.15.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sexp_processor-4.15.1/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sexp_processor-4.15.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sexp_processor-4.15.1/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/sexp_processor-4.15.1/test" />
-      </excluded>
-    </library>
     <library name="sexp_processor (v4.15.2, RVM: ruby-2.5.1 [goldendata]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
