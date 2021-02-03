@@ -1030,18 +1030,18 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/brakeman-4.10.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/brakeman-4.10.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/brakeman-4.10.0/bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/brakeman-4.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/brakeman-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/brakeman-4.10.0/bundle" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/brakeman-4.10.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/brakeman-4.10.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/brakeman-4.10.0/bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/brakeman-4.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/brakeman-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/brakeman-4.10.0/bundle" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/brakeman-4.10.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@goldendata/gems/brakeman-4.10.0/bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/brakeman-4.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/brakeman-4.10.0/bundle" />
       </excluded>
     </library>
     <library name="brakeman (v4.10.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
@@ -1360,15 +1360,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/bundler-2.2.6/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/bundler-2.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.2.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.2.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/bundler-2.2.6/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/bundler-2.2.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.2.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.2.6/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/bundler-2.2.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.2.6/exe" />
       </excluded>
     </library>
     <library name="bundler (v2.2.6, RVM: ruby-2.5.1) [gem]" type="rubylib">
